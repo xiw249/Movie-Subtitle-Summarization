@@ -29,4 +29,4 @@ For a detailed breakdown of the methodology, experiments, results, and in-depth 
 
 ##  Team & Acknowledgments
 
-This project was completed in collaboration with [请在此填写您队友的名字].
+This project was completed in collaboration with Yansheng Ma.
